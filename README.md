@@ -3,159 +3,128 @@
 ### ☕ Estudante de Java | 💻 Desenvolvimento de Software
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas**, atualmente focado no ecossistema **Java**.
+🎓 Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou focado no aprendizado de **Java**.
 
-Estou construindo minha base através de:
+Estou construindo minha base através de exercícios, desafios e pequenos projetos, buscando entender não apenas como escrever código, mas também **como organizar e estruturar programas corretamente**.
 
-* ☕ Desenvolvimento com Java
-* 🧱 Programação Orientada a Objetos
-* 🧩 Exercícios de lógica e programação
-* 🛠️ Projetos práticos
-* 🗄️ Banco de dados
-* 🔧 Git e GitHub
-
-Meu objetivo é transformar conhecimento em **projetos reais**, desenvolver um portfólio sólido e conquistar minha primeira oportunidade como desenvolvedor.
+Meu objetivo é evoluir progressivamente em Java e, no futuro, trabalhar profissionalmente como desenvolvedor.
 
 ---
 
-## 🧠 Atualmente estudando
+## ☕ Meu foco atual
+
+Atualmente estou estudando:
+
+* ☕ Fundamentos de Java
+* 🧠 Lógica de programação
+* 🧱 Programação Orientada a Objetos
+* 📦 Classes e objetos
+* 🔒 Encapsulamento
+* 🧬 Herança
+* 🔄 Polimorfismo
+* 📋 Arrays
+* 🔤 Strings
+* 🔁 Estruturas de repetição
+* 🔀 Estruturas condicionais
+* 🛠️ Métodos
+
+---
+
+## 📚 O que estou praticando
+
+```text
+Java
+ │
+ ├── Variáveis e tipos de dados
+ ├── Operadores
+ ├── Condicionais
+ ├── Estruturas de repetição
+ ├── Arrays
+ ├── Métodos
+ ├── Classes e objetos
+ ├── Encapsulamento
+ ├── Herança
+ ├── Polimorfismo
+ └── Programação Orientada a Objetos
+```
+
+---
+
+## 🚀 Minha evolução
 
 <div align="center">
 
-| Tecnologia         | Nível de estudo |
-| ------------------ | --------------- |
-| ☕ Java             | 🟩🟩🟩🟩⬜       |
-| 🧱 POO             | 🟩🟩🟩🟩⬜       |
-| 📦 Collections     | 🟩🟩🟩⬜⬜        |
-| 🗄️ Banco de Dados | 🟩🟩🟩⬜⬜        |
-| 🔧 Git/GitHub      | 🟩🟩🟩⬜⬜        |
-| 🌐 APIs REST       | 🟩🟩⬜⬜⬜         |
-| 🍃 Spring Boot     | 🟩⬜⬜⬜⬜          |
+```text
+🟢 Java Básico
+       ↓
+🟢 Lógica de Programação
+       ↓
+🟢 Classes e Objetos
+       ↓
+🟡 Programação Orientada a Objetos
+       ↓
+⚪ Collections
+       ↓
+⚪ Banco de Dados
+       ↓
+⚪ APIs
+       ↓
+⚪ Spring Boot
+```
 
 </div>
 
-> 📌 Meu foco atual é **Java**. Estou priorizando uma base sólida antes de avançar para frameworks.
-
----
-
-## ☕ Tecnologias
-
-### 💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
-</p>
-
-### 🛠️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="50"/>
-</p>
-
-### 🗄️ Banco de dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
-</p>
+> 📌 **Foco atual:** construir uma base sólida em Java antes de avançar para outras tecnologias.
 
 ---
 
 ## 📂 Projetos
 
-### ☕ Java
+### ☕ Projetos e exercícios em Java
 
-Estou desenvolvendo uma coleção de exercícios e projetos para consolidar meus conhecimentos em Java.
+Este perfil reúne meus estudos e projetos desenvolvidos durante minha evolução em Java.
 
-**Principais conceitos praticados:**
+Nos projetos, estou praticando conceitos como:
 
-```text
-✓ Variáveis e tipos de dados
-✓ Operadores
-✓ Estruturas condicionais
-✓ Estruturas de repetição
-✓ Arrays
-✓ Métodos
-✓ Classes e objetos
-✓ Encapsulamento
-✓ Herança
-✓ Polimorfismo
-✓ Programação Orientada a Objetos
-```
+* Classes e objetos
+* Métodos
+* Encapsulamento
+* Arrays
+* Estruturas de controle
+* Programação Orientada a Objetos
+* Organização de código
 
-### ⭐ Projetos em destaque
-
-> 🚧 Novos projetos serão adicionados conforme avanço nos estudos.
-
-| Projeto                         | Tecnologias        | Status                |
-| ------------------------------- | ------------------ | --------------------- |
-| ☕ Exercícios Java               | Java               | 🟢 Em desenvolvimento |
-| 🧱 POO em Java                  | Java               | 🟢 Em desenvolvimento |
-| 🗄️ Projetos com Banco de Dados | Java / SQL         | 🟡 Planejado          |
-| 🌐 API REST                     | Java / Spring Boot | 🔵 Futuro projeto     |
-
----
-
-## 📈 Minha evolução
-
-```text
-☕ Java Básico
-      │
-      ▼
-🧱 Programação Orientada a Objetos
-      │
-      ▼
-📦 Collections
-      │
-      ▼
-🗄️ Banco de Dados
-      │
-      ▼
-🌐 APIs REST
-      │
-      ▼
-🍃 Spring Boot
-      │
-      ▼
-🚀 Projetos Profissionais
-```
+🚧 **Novos projetos serão adicionados conforme avanço nos estudos.**
 
 ---
 
 ## 🎯 Objetivos
 
-### Curto prazo
+### Atualmente
 
-* [x] Começar Java
-* [x] Aprender lógica de programação
-* [x] Estudar classes e objetos
+* [x] Começar a estudar Java
+* [x] Praticar lógica de programação
+* [x] Criar classes e objetos
 * [ ] Aprofundar POO
 * [ ] Dominar Collections
-* [ ] Melhorar Git e GitHub
+* [ ] Criar projetos maiores
 
-### Médio prazo
+### Futuramente
 
 * [ ] Banco de dados
-* [ ] APIs REST
+* [ ] Desenvolvimento de APIs
 * [ ] Spring Boot
 * [ ] Testes automatizados
-* [ ] Criar projetos completos
-
-### Longo prazo
-
-* [ ] Construir um portfólio profissional
-* [ ] Desenvolver aplicações reais
-* [ ] Contribuir para projetos
-* [ ] Conseguir minha primeira oportunidade como desenvolvedor
-* [ ] Trabalhar profissionalmente com Java
+* [ ] Projetos profissionais
+* [ ] Construir um portfólio sólido
+* [ ] Conseguir minha primeira oportunidade como desenvolvedor Java
 
 ---
 
@@ -163,35 +132,31 @@ Estou desenvolvendo uma coleção de exercícios e projetos para consolidar meus
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Atividade no GitHub
+## 🐍 Minha atividade
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 📫 Contato
+## 💻 Tecnologia principal
 
-<div align="left">
+<div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
+
+**Java**
 
 </div>
 
@@ -199,7 +164,7 @@ Estou desenvolvendo uma coleção de exercícios e projetos para consolidar meus
 
 <div align="center">
 
-### ☕ "Um código de cada vez."
+### ☕ Sempre aprendendo, sempre evoluindo.
 
 **Obrigado por visitar meu perfil! 🚀**
 
